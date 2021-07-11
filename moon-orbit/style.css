@@ -40,12 +40,10 @@ body{
     position: absolute;
     margin-top: 500px;
     margin-right: 500px;
+
     animation: orbit 12s infinite linear; 
 
-    -webkit-animation-name: orbit;
-    -webkit-animation-duration: 6s;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-timing-function: linear;
+    
 }
 
 /*
@@ -107,4 +105,5 @@ body{
         height: 50px;
     }
 }
+
 
